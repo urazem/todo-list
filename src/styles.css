@@ -1,0 +1,32 @@
+/* You can add global styles to this file, and also import other style files */
+
+* {
+    box-sizing: border-box;
+   
+  }
+  
+  .container {
+    max-width: 600px;
+    margin: 0 auto;
+
+  }
+  
+  
+  body {
+    font-family: 'Avenir', Helvetica, Arial, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    color: white;
+    margin-top: 60px;
+    font-size: 24px;
+    margin-bottom: 35%;
+    background: rgb(2,120,119);
+    background: linear-gradient(0deg, rgba(2,120,119,1) 0%, rgba(6,41,97,1) 100%);
+  }
+  
+  .logo {
+    display: block;
+    margin: 20px auto;
+    height: 75px;
+  }
+  
